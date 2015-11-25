@@ -5,7 +5,7 @@
             "name": "Launch",
             "type": "node",
             "request": "launch",
-            "program": "readdir.js",
+            "program": "domain.js",
             "stopOnEntry": false,
             "args": [],
             "cwd": ".",
